@@ -1,11 +1,15 @@
 # Reddit User Persona Generator 🧠
 
 This tool takes a Reddit username and generates a detailed user persona based on their public posts and comments using an LLM.
+This tool analyzes a Reddit user’s public activity and generates a detailed user persona using their posts and comments.  
+It uses Large Language Models (LLMs) to derive personality traits, interests, writing style, and behavioral patterns.
+
+---
 
 ## 📦 Tech Stack
 - Python
 - PRAW (Reddit API wrapper)
-- OpenAI API (GPT-4 or GPT-3.5)
+- OpenAI API (GPT-3.5)
 - `.env` for secure credential management
 
 ---
